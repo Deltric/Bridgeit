@@ -10,7 +10,7 @@ Bridgeit listens for events and checks if an event has ant registered listener's
 ## Code Example
 You can add a new listener by calling **addListener** on the **Bridgeit main instance**. Which as arguments you pass in the class of the event you want to listen to and then a consumer, that'll be called for the execution of the event.
 
-In this example we'll look at listening to the ExperienceGainEvent from [Pixelmon Generations](https://pixelmongenerations.com/).
+In this example we'll be adding a new listener to the ExperienceGainEvent from [Pixelmon Generations](https://pixelmongenerations.com/).
 
 ```java
 public class ExampleProject extends JavaPlugin implements Listener {
