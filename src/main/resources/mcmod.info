@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bridgeit",
+  "name": "Bridgeit",
+  "description": "Mod created to allow listening to Forge Events in Bukkit plugins.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Deltric/Bridgeit",
+  "updateUrl": "",
+  "authorList": ["Deltric"],
+  "credits": "Java for not making this hard to create.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
